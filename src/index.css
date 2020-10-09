@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width:100wh;
+  overflow-x: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.MuiOutlinedInput-root {
+  position: relative;
+  border-radius: 4px;
+  height: 40px;
+}
+.MuiFormHelperText-root.Mui-error {
+  color: #f44336;
+  position: absolute;
+  bottom: -25px;
+  left: -10px;
+}
+.css-1okebmr-indicatorSeparator {
+  display:"none";
+  background-color: rgb(255, 255, 255)!important;
+}
+.MuiSelect-iconOutlined {
+  right: 7px;
+  color: #cccccc!important;
+}
+.form-control{
+  width:551!important;
+}
+.react-tel-input * {
+  box-sizing: none!important;
+}
+.css-yk16xz-control {
+
+  height: 40px!important;
+}
+.css-yk16xz-control {
+  width: 551px!important;
+}
+
+.MuiStepIcon-root.MuiStepIcon-active {
+  color: #f25436!important;
+  font-size: 28px!important;
+}
+.fileContainer {
+  display: flex!important;
+  flex-flow: row!important;
+  justify-content: space-evenly!important;
+}
+.MuiStepLabel-label {
+  color: rgba(255, 255, 255, 0.87)!important;
+ 
+}
+.MuiStepConnector-root {
+  display: inline-flex!important;
+}
+.makeStyles-OtpSingleBox-17 :focus{
+
+border-color:#f25436!important
+}
+button{
+  text-transform: capitalize!important;
+ 
+}
+
+.react-tel-input .form-control.focus-visible, .react-tel-input .form-control.focus-visible ~ .flag-dropdown{
+  border: 1px solid  #f25436;
+}
+
+.error .cst-option__control {
+  border-color: #f25436!important;
+}
+.error {
+  border-color:  red!important;
+}
+
+input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:focus, input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #f25436!important;
+  border-width: 1px!important;
+}
+.MuiSelect-outlined.MuiSelect-outlined {
+  padding-right: 32px;
+  width:505px!important;
+}
+.makeStyles-stepper-2 {
+
+
+}
+option {
+  font-weight: normal;
+  display: block;
+  white-space: pre;
+  min-height: 7em!important;
+  padding: 10px 20px 11px 10px!important;
+}
